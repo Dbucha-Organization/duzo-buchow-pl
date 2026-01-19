@@ -996,11 +996,7 @@ a {
         transform: translateX(-50%);
     }
 
-    .stats-grid {
-        grid-template-columns: 1fr;
-        gap: 20px;
-        text-align: center;
-    }
+
 
     .popular-grid {
         grid-template-columns: 1fr;
